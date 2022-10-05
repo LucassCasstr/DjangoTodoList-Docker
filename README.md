@@ -3,7 +3,7 @@
 
 ## Sobre
 
-Esse é um pequeno projeto desenvolvido em Django que foi concluído em apenas um dia. 
+Este é um pequeno projeto desenvolvido em Django que foi concluído em apenas um dia. 
 
 A aplicação está completa e pode ser executada localmente, no entanto, ela também foi dockerizada e é possível executá-la por meio de containers.
 
