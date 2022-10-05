@@ -3,9 +3,9 @@
 
 ## Sobre
 
-Este é um pequeno projeto desenvolvido em Django que foi concluído em apenas um dia. 
+Este é um pequeno projeto desenvolvido em Django que ainda está em desenvolvimento.
 
-A aplicação está completa e pode ser executada localmente, no entanto, ela também foi dockerizada e é possível executá-la por meio de containers.
+A base da aplicação está completa e pode ser executada localmente, no entanto, ela também foi dockerizada e é possível executá-la por meio de containers.
 
 ## Instalação
 
