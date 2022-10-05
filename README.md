@@ -3,7 +3,9 @@
 
 ## Sobre
 
-Esse é um pequeno projeto desenvolvido em apenas um dia e feito com o único intuito de praticar um pouco de Docker
+Esse é um pequeno projeto desenvolvido em Django concluído em apenas um dia. 
+
+A aplicação está completa e pode ser executada localmente, no entanto, ela também foi dockerizada e é possível executá-la por meio de containers.
 
 ## Instalação
 
