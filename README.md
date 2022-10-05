@@ -3,7 +3,7 @@
 
 ## Sobre
 
-Este é um pequeno projeto desenvolvido em Django e que ainda está em desenvolvimento.
+Este é um pequeno projeto escrito em Django e que ainda está em desenvolvimento.
 
 A base da aplicação está completa e pode ser executada localmente, no entanto, ela também foi dockerizada e é possível executá-la por meio de containers.
 
